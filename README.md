@@ -281,7 +281,7 @@ These must remain local.
 | **Contributor 3** | Data Cleaning / AIS Integration | *(Add GitHub link)*                                        |
 | **Contributor 4** | Testing & Documentation         | *(Add GitHub link)*                                        |
 
-> Add your team members' GitHub profiles as they join.
+> Add team members' GitHub profiles as they join.
 
 ---
 
