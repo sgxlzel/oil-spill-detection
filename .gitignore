@@ -12,7 +12,6 @@ datasets/
 *.png
 *.jpg
 *.jpeg
-*.tif
 *.tiff
 *.bmp
 *.gif
@@ -31,12 +30,6 @@ checkpoints/
 *.pt
 *.onnx
 *.ckpt
-
-# -----------------------------
-# Ignore Notebooks Checkpoints
-# -----------------------------
-.ipynb_checkpoints/
-*.ipynb
 
 # -----------------------------
 # Ignore Virtual Environments
@@ -64,6 +57,7 @@ __pycache__/
 *.log
 
 # -----------------------------
-# Ignore other temporary files
+# Ignore Temp
 # -----------------------------
 *.DS_Store
+
