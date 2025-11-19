@@ -37,7 +37,7 @@ Oil_Spill_Project/
 
 ### **1. Oil Spill Images (Satellite SAR Data)**
 
-**Source:** [https://www.kaggle.com/competitions/airbus-ship-detection/data]([https://www.kaggle.com/competitions/airbus-ship-detection/data](https://www.kaggle.com/datasets/nabilsherif/oil-spill)
+**Source:** (https://www.kaggle.com/datasets/nabilsherif/oil-spill)
 **Action:**
 
 * Download → Unzip → place into:
@@ -49,7 +49,7 @@ data/test/
 
 ### **2. AIS Vessel Data (Ship Tracking)**
 
-**Source:** [https://marinecadastre.gov/ais/]([https://marinecadastre.gov/ais/](https://hub.marinecadastre.gov/pages/vesseltraffic))
+**Source:** (https://hub.marinecadastre.gov/pages/vesseltraffic)
 **Action:**
 
 * Download any AIS CSV → place into:
